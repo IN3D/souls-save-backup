@@ -1,0 +1,17 @@
+{
+  "source_directories": [
+    {
+      "name": "Dark Souls: Remastered",
+      "path": "%HOMEPATH%\\Documents\\NBGI\\DARK SOULS REMASTERED"
+    },
+    {
+      "name": "Dark Souls 2: Scholar of the First Sin",
+      "path": "%APPDATA%\\DarkSoulsII"
+    },
+    {
+      "name": "Dark Souls 3",
+      "path": "%APPDATA%\\DarkSoulsIII"
+    }
+  ],
+  "backup_directory": "G:\\Backups\\Save backups\\Souls"
+}
